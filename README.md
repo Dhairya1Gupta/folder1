@@ -2,4 +2,4 @@
 my first repository
 <br>
 <hr>
-author-DHAIRYA
+author-DHAIRYA Gupta
